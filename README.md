@@ -159,7 +159,7 @@ This approach helps ground responses in the uploaded documents instead of relyin
 
 **Najia Ben Mahmoud**
 
-Computer Science Engineer | Artificial Intelligence | Data Science | Business Intelligence
+Computer Science Engineer | Artificial Intelligence | Data Science 
 
 - GitHub: [NajLaBm](https://github.com/NajLaBm)
 - Portfolio: [najia-benmahmoud.netlify.app](https://najia-benmahmoud.netlify.app)
